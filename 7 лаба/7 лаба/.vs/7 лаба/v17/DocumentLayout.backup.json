@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0420\u0412\\7 \u043B\u0430\u0431\u0430\\7 \u043B\u0430\u0431\u0430\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3FF7B0-37EC-4E69-9546-0C31070BB2E0}|7 \u043B\u0430\u0431\u0430\\7 \u043B\u0430\u0431\u0430.vcxproj|D:\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0420\u0412\\7 \u043B\u0430\u0431\u0430\\TCPClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 107,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TCPClient.cpp",
+              "DocumentMoniker": "D:\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0420\u0412\\7 \u043B\u0430\u0431\u0430\\TCPClient.cpp",
+              "RelativeDocumentMoniker": "..\\TCPClient.cpp",
+              "ToolTip": "D:\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0420\u0412\\7 \u043B\u0430\u0431\u0430\\TCPClient.cpp",
+              "RelativeToolTip": "..\\TCPClient.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-12T12:20:27.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

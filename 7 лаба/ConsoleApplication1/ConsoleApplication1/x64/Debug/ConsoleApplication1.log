@@ -1,0 +1,6 @@
+﻿  TCPServer.cpp
+D:\5 семестр\СРВ\7 лаба\TCPServer.cpp(122,70): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\5 семестр\СРВ\7 лаба\TCPServer.cpp(152,66): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\5 семестр\СРВ\7 лаба\TCPServer.cpp(158,66): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\5 семестр\СРВ\7 лаба\TCPServer.cpp(164,79): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication1.vcxproj -> D:\5 семестр\СРВ\7 лаба\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
